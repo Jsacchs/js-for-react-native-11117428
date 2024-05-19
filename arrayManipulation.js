@@ -29,8 +29,8 @@ function processArray(arr) {
       }
       
     
-    const originalStrings = ["This”,  “Very”, “Is”, “Amazing"];
-    const processedNumbers = [11, 22, 30, 16]; 
+    const originalStrings = ["This”,  “Very”, “Is”, “Apple”, “Amazing"];
+    const processedNumbers = [20, 23, 25, 27, 29]; 
     
     const formattedStrings = formatArrayStrings(originalStrings, processedNumbers);
     
